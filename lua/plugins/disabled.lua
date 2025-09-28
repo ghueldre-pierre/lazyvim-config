@@ -9,4 +9,8 @@ return {
       explorer = { enabled = false },
     },
   },
+  {
+    "folke/noice.nvim",
+    enabled = false,
+  },
 }
