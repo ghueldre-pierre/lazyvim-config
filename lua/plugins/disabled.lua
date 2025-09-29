@@ -7,6 +7,7 @@ return {
     "folke/snacks.nvim",
     opts = {
       explorer = { enabled = false },
+      notifier = { enabled = false },
     },
   },
   {
