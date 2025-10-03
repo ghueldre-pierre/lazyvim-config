@@ -6,7 +6,8 @@ return {
   {
     "folke/snacks.nvim",
     opts = {
-      explorer = { enabled = false },
+      --I disabled to use oil.nvim instead but I have decided to go back for now
+      --explorer = { enabled = false },
       notifier = { enabled = false },
     },
   },
